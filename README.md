@@ -54,19 +54,20 @@ Before proceeding, ensure you have the following installed:
    - Open the provided URL in your favorite browser. We recommend using Google Chrome for the best experience.
 
 9. **Login Credentials**
-   For admin portal login:
-   username: admin@gmail.com
-   pass: 1234
-   For student portal login:
-   username: student@gmail.com
-   pass: 1234
-   For teacher portal login:
-   username: teacher@gmail.com
-   pass: 1234
-   For Parents portal Login:
-   username: parent@gmail.com
-   pass:1234
-   *You can always change and set the username and password from the database*
+   - Use the following credentials to log in to the application:
+     - **Admin Portal Login**: 
+       - Username: `admin@gmail.com`
+       - Password: `1234`
+     - **Student Portal Login**:
+       - Username: `student@gmail.com`
+       - Password: `1234`
+     - **Teacher Portal Login**:
+       - Username: `teacher@gmail.com`
+       - Password: `1234`
+     - **Parents Portal Login**:
+       - Username: `parent@gmail.com`
+       - Password: `1234`
+   - You can always change and set the username and password from the database.
 
 ## Notes
 - If you encounter issues, ensure that your PHP and MySQL services are running.
